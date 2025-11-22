@@ -74,11 +74,11 @@ The primary objectives are:
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Veer7733/Internship_Project_1-Customer_Segmentation-and-Prediction
+   git clone https://github.com/Veer7733/Internship_Project-Customer_Segmentation-and-Prediction
    ``` 
 2. Navigate to the project folder:
    ```bash
-   cd Internship_Project_1-Customer_Segmentation-and-Prediction
+   cd Internship_Project-Customer_Segmentation-and-Prediction
    ```
 3. Install the required libraries:
    ```bash
