@@ -1,4 +1,4 @@
-# Internship_Project_1-Customer-Segmentation-and-Prediction
+# Internship_Project-Customer-Segmentation-and-Prediction
 In this project i used supervised & unsupervised machine learning algorithm for segmentation and prediction.
 
 # Customer Segmentation and Prediction
